@@ -1,7 +1,7 @@
 name: "ILDA"
 output_dir: ../docs
 navbar:
-  title: "ILDA"
+  title: "Intensive Longitudinal Data Analysis"
   left:
   - text: Home
     href: index.html

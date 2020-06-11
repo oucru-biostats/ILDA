@@ -8,4 +8,33 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to the research project website.
+
+## Reading materials
+
+* [Paper] [Hamaker et al. (2018) At the Frontiers of Modeling Intensive Longitudinal Data: Dynamic Structural Equation Models for the Affective Measurements from the COGITO Study](https://doi.org/10.1080/00273171.2018.1446819)
+
+* [Paper] [Jahng S & Wood PK (2017) Multilevel Models for Intensive Longitudinal Data with Heterogeneous Autoregressive Errors: The Effect of Misspecification and Correction with Cholesky Transformation](https://doi.org/10.3389/fpsyg.2017.00262)
+
+* [Paper] [Jacobson NC et al (2018) The Differential Time-Varying Effect Model (DTVEM): A tool for diagnosing and modeling time lags in intensive longitudinal data](https://doi.org/10.3758/s13428-018-1101-0)
+
+* [Book] [van Montfort et al. (2019) Continuous Time Modeling in the Behavioral and Related Sciences](https://www.springer.com/gp/book/9783319772189)
+
+* [Book chapter] [Ryan O et al. (2018) A continuous time approach to intensive longitudinal data: What, Why and How?](https://link.springer.com/chapter/10.1007/978-3-319-77219-6_2)
+
+* [Book] [Walls TA & Schafer JL (2006) Models for Intensive Longitudinal Data](https://global.oup.com/us/companion.websites/0195173449/)
+
+* [Book] [Bolger N & Laurenceau JP (2013) Intensive Longitudinal Methods: An Introduction to Diary and Experience Sampling Research](http://www.intensivelongitudinal.com/index.html)
+
+* [R package] [timetk: a consistent approach to visualize, wrangle, and preprocess time series data inside the tidyverse and tidymodels ecosystem](https://www.business-science.io/code-tools/2020/06/05/timetk-vesion-2-announcement.html)
+
+* [R package] [ctsem: continuous time structural equation modelling of panel and time series data using full information maximum likelihood](https://www.jstatsoft.org/article/view/v077i05)
+
+* [R package] [dynr: A Package for Linear and Nonlinear Dynamic Modeling in R](https://journal.r-project.org/archive/2019/RJ-2019-012/index.html)
+
+* [Slide] [Schuurman NK (2018) Analyzing Intensive Longitudinal Data. TESC workshop](https://www.nkschuurman.com/TESCworkshop.pdf)
+
+* [Research group] [The Methodology Center. PennState College of Health and Human Development](https://www.methodology.psu.edu/ra/ild/#:~:text=Intensive%20Longitudinal%20Data,%2C%20health%2C%20and%20behavioral%20research.)
+
+
+
