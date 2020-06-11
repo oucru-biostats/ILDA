@@ -1,5 +1,3 @@
 # ILDA
 
-A [workflowr][] project.
-
-[workflowr]: https://github.com/jdblischak/workflowr
+About Intensive Longitudinal Data Analysis
